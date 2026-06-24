@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper and this repository."
+title: "Maritime Forest Ecosystem and CANOPY-TD"
+authors:
+  - family-names: "Babenko"
+    given-names: "Yevheniia"
+date-released: 2026-06-24
+version: "0.1.0"
+license: "MIT"
+repository-code: "https://github.com/YOUR_USERNAME/maritime-forest-ecosystem-canopy-td"
+keywords:
+  - AIS
+  - maritime traffic
+  - Maritime Forest Ecosystem
+  - CANOPY-TD
+  - bio-inspired optimization

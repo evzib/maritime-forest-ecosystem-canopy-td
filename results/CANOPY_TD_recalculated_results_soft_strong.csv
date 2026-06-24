@@ -1,0 +1,5 @@
+,Conflicts,Canopy overlap,Congestion score,Risk score,"Mean route offset, km","Max route offset, km",Mean local density,Max local density
+Initial,427.0,53345.517,624.723,16053.996,0.0,0.0,17.446,48.0
+CANOPY-Soft,217.0,36309.065,304.892,7276.739,1.857,2.0,12.185,36.0
+CANOPY-Strong,120.0,18697.355,86.169,2437.391,4.643,5.0,6.677,19.0
+Stronger repulsion baseline,98.0,13042.231,55.0,1444.242,6.429,7.0,5.292,14.0

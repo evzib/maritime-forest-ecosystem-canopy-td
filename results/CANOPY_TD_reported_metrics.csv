@@ -1,0 +1,5 @@
+Method,Conflicts,Canopy overlap,Congestion score,Risk score,"Mean route offset, km","Max route offset, km"
+Initial Traffic,427,53345.517,624.723,16053.996,0.0,0.0
+CANOPY-Soft,217,36309.065,304.892,7276.739,1.857,2.0
+CANOPY-Strong,120,18697.355,86.169,2437.391,4.643,5.0
+Stronger Baseline,98,13042.231,55.0,1444.242,6.429,7.0
